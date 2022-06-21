@@ -1,2 +1,2 @@
 //this line has been changed
-//this line causes conflict
+//this line causes conflict and conflict has been resolved
